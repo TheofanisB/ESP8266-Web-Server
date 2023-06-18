@@ -2,7 +2,7 @@
 
 A brief guide on how to host a web server on your ESP8266
 
-![ESP8266 |width=100px](https://raw.githubusercontent.com/TheofanisB/ESP8266-Web-Server/main/PXL_20230618_153849412.jpg )
+![ESP8266](https://raw.githubusercontent.com/TheofanisB/ESP8266-Web-Server/main/PXL_20230618_153849412.jpg )
 
 
 ## Requirements
@@ -21,7 +21,14 @@ In order to host the server on your ESP866 you need to have the following:
 
 - Upload the code: Select the appropriate board and port in the Arduino IDE, then upload the code to your ESP8266.
 
-- Once the code is uploaded successfully, open a web browser on a device connected to the same network and enter the IP address of the ESP8266 (which can be found in the Arduino IDE Serial Monitor). You should see the "Hello from ESP8266!" message.
+  ![Loading Files](https://raw.githubusercontent.com/TheofanisB/ESP8266-Web-Server/main/loading%20files.png)
+
+- Once the code is uploaded successfully, open a web browser on a device connected to the same network and enter the IP address of the ESP8266 (which can be found in the Arduino IDE Serial Monitor).
+
+![initialized](https://raw.githubusercontent.com/TheofanisB/ESP8266-Web-Server/main/initialized.png)
+- You should see the "Hello from ESP8266!" message.
+
+  ![Connected](https://raw.githubusercontent.com/TheofanisB/ESP8266-Web-Server/main/connected.png)
 
 
 You can further customize the server's functionality by adding additional routes and handling different types of requests.
