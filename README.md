@@ -5,9 +5,9 @@ A brief guide on how to host a web server on your ESP8266
 
 
 ## Requirements
-In order to host the server on your ESP866 you need to have the following installed:
-- Arduino IDE 
-- ESP8266 board support package
+In order to host the server on your ESP866 you need to have the following:
+- Arduino IDE installed
+- ESP8266 board support package installed
 - An ESP8266 board
 - A USB-to-serial adapter or a development board with built-in USB support to connect the ESP8266 to your computer.
 
