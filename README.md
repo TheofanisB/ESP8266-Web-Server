@@ -1,7 +1,8 @@
 # How to Host a Web Server on an ESP8266 Microcontroller
 
 A brief guide on how to host a web server on your ESP8266
-![esp](https://github.com/TheofanisB/ESP8266-Web-Server/blob/main/PXL_20230618_153849412.jpg | width=50)
+
+<img src="[https://your-image-url.type](https://github.com/TheofanisB/ESP8266-Web-Server/blob/main/PXL_20230618_153849412.jpg)" width="100" height="100">
 
 ## Requirements
 In order to host the server on your ESP866 you need to have the following installed:
